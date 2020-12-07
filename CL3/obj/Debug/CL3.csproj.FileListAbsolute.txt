@@ -1,0 +1,12 @@
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\bin\Debug\CL3.exe.config
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\bin\Debug\CL3.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\bin\Debug\CL3.pdb
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.csprojAssemblyReference.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.FrmPrincipal.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.FrmMantenimientoVehiculo.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.Properties.Resources.resources
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.csproj.GenerateResource.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.csproj.CoreCompileInputs.cache
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.exe
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.pdb
+G:\COPIA DE SEGURIDAD\source\repos\.NET\FINAL\CL3\obj\Debug\CL3.FrmConsultarPorAnios.resources
